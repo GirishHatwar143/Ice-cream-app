@@ -1,0 +1,35 @@
+.nav{
+  width:auto;
+  background-color:#F5C6EC;
+  
+}
+.main-div{
+  display:flex;
+  justify-content:space-around ;
+  text-align:center;
+  margin:auto;
+}
+.nav-Button{
+  height:50px;
+  width:125px;
+  text-align:center;
+  justify-content:center;
+  margin-top:35px;
+  background-color:#69c4dd;
+  border-radius:10px;
+  font-family:algerian;
+   border: 2px solid firebrick;
+  
+}
+.nav-Button:hover{
+  background-color:#28CC9E;
+box-shadow: 5px 5px yellow;
+}
+.name{
+  text-align:center;
+  justify-content:center;
+  margin-top:30px;
+  font-family:algerian;
+  font-size:30px;
+  color:blue;
+}
